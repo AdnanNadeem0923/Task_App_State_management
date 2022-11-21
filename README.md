@@ -1,6 +1,7 @@
 # todoey_state_management
 
 A new Flutter project.
+A new Todo App made in Flutter
 
 ## Getting Started
 
